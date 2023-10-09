@@ -219,7 +219,7 @@ section {
 
 .services{
     padding-top: 15%;
-    background-image: url("image/OFFICE\ BUILDING\ 3.jpg");
+    background-image: url("OFFICE BUILDING 3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -352,7 +352,7 @@ section {
 
 .contact{
     padding-top: 11%;
-    background-image: url("image/PROJECT\ 4\ .4.jpg");
+    background-image: url("PROJECT 4 .4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     backdrop-filter:blur(5.5rem);
